@@ -1,7 +1,11 @@
 # Java vs JavaScript
 
-| JAVA          | JAVASCRIPT |
-| --------      |:---------: |
-| 1 Online      |      value |
-| Line 2        |      value |
-| 3 Online      |      value |
+| JAVA     |      notion       | JAVASCRIPT |
+| -------- |:-----------------:|:---------: |
+|   ==     |         égal      |    ===     |
+|   !=     |     différent     |    !==     |
+|    >     |     supérieur     |     >      |
+|    <     |     inférieur     |     <      |
+|    >=    | supérieur ou égal |     >=     |
+|    <=    | inférieur ou égal |     <=     |
+

@@ -54,5 +54,11 @@ public class HelloUniverse {
     System.out.println("Neptune a effectué " + neptune.revolution(-3542) + " tours complets autour de son étoile.");
     System.out.println("Mars a effectué "+mars.rotation(-684)+" tours sur elle-même.");
     System.out.println("Venus a effectué "+venus.rotation(1250)+" tours sur elle-même.");
+
+    mars.accueillirVaisseau(8);
+    mars.accueillirVaisseau("FREGATE");
+
+
+    System.out.println("Le nombre d'humains ayant déjà séjourné sur Mars est actuellement de " + mars.totalVisiteurs);
   }
 }
